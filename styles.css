@@ -77,18 +77,20 @@ main-content {
 
 .main-content h2 #h {
     font-size: 1em;
-    margin-left: 35%;
+    margin-left: 34%;
 }
 
 .main-content h2 #w {
-    font-size: 0.8em;
-    margin-left: 25%;
+    color: darkblue;
+    font-size: 0.6em;
+    margin-left: 2%;
 }
 
 .main-content h2 #m {
-    font-size: 0.8em;
-    margin-left: 0;
-}
+    color: darkblue;
+    font-size: 0.6em;
+    margin-left: 2%;
+    }
 
 .main-content h2 span{
     margin-top: 20%;
